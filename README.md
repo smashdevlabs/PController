@@ -1,4 +1,4 @@
-# 🎮 PController
+# 🌟 PController 🌟
 
 ---
 
