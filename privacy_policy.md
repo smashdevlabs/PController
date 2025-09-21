@@ -29,7 +29,7 @@ All collected information is used **exclusively** to enable secure remote contro
 ## 🛡️ Security
 All communications between the smartphone and the PC are encrypted using a secure **WSS channel**.  
 🔐 This ensures that sensitive information (including keyboard input) is **fully encrypted** and protected from sniffing attacks.  
-We designed the app with **end-to-end safety** in mind.
+We designed the app with **end-to-end safety** in mind.  
 📡 **There is never any communication with external servers** — all data is exchanged **only within the local network**, strictly between the smartphone and the controlled PC.
 
 ---
